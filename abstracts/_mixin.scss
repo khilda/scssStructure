@@ -1,0 +1,8 @@
+//************************************
+//# text eillipse
+//************************************
+@mixin eillipse(){
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden; 
+}
